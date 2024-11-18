@@ -1,6 +1,10 @@
+# DESCRIPTION
+
+Projet fait par De Garate Philipe et Aubert-Mécibah Izaak
+
 # ATTENTION
-Impossible de régler les erreurs CORS. 
-Pour lancer l'application, il faut désactiver les politiques de gestion des requêtes options du navigeur
+Impossible de régler les erreurs CORS. Même après avoir recréé tout le projet.
+Pour lancer l'application, il faut désactiver les politiques de gestion des requêtes options du navigeur.
 
 Pour contourner temporairement les erreurs CORS lors du développement, vous pouvez lancer votre navigateur sans les politiques de sécurité :
 
